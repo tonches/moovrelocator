@@ -71,7 +71,7 @@
  * @since      File available since Release 1.0.0
  */
 
-require_once '../lib/moovrelocator.class.php';
+require_once '../lib/Moovrelocator.class.php';
 
 
 /**
